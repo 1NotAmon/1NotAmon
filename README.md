@@ -1,15 +1,14 @@
-<img width="300" height="120" alt="1181-playful-sleeping-cats" src="https://github.com/user-attachments/assets/deaf8f02-d87f-46e2-b69a-22ad8f3f2e75" />
-
 # Hi, I'm Amon.
 
 **Independent Developer · Creator of Amon Studio**
 
-喜歡開發實用工具與軟體，專注於 Windows 應用程式、網站開發與 UI/UX 設計。
+熱衷於軟體開發與創作，喜歡將想法轉化為實際作品。主要專注於 Windows 應用程式、網站開發與 UI/UX 設計，持續探索新技術並打造自己的產品。
 
 ### Tech Stack
 `Python` `PowerShell` `HTML` `CSS`
 
 ### Projects
+- [Mahiro Desktop Pet](https://github.com/1NotAmon/mahiro_pet_windows)
 - [Windows Image Format Converter](https://github.com/1NotAmon/windows-image-format-converter)
 - [Ameng Auto Clicker](https://github.com/1NotAmon/ameng-auto-clicker)
 
